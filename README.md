@@ -1,5 +1,5 @@
 # Aula 3 - GitHub 
-### Professor Henrique
+### Professor Henrique.
 
 É importante questionar o quanto o novo modelo estrutural aqui preconizado deve passar por modificações independentemente das novas proposições. Por outro lado, a percepção das dificuldades ainda não demonstrou convincentemente que vai participar na mudança dos métodos utilizados na avaliação de resultados. O cuidado em identificar pontos críticos na contínua expansão de nossa atividade desafia a capacidade de equalização das diretrizes de desenvolvimento para o futuro. Ainda assim, existem dúvidas a respeito de como a adoção de políticas descentralizadoras acarreta um processo de reformulação e modernização de alternativas às soluções ortodoxas.
 
