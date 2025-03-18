@@ -1,7 +1,7 @@
 # Aula 3 - GitHub 
 ### Professor Henrique.
 
-texto errado
+texto errado....
 
           Podemos já vislumbrar o modo pelo qual o comprometimento entre as equipes causa impacto indireto na reavaliação das condições financeiras e administrativas exigidas. O que temos que ter sempre em mente é que o desafiador cenário globalizado assume importantes posições no estabelecimento do levantamento das variáveis envolvidas. Acima de tudo, é fundamental ressaltar que a necessidade de renovação processual facilita a criação do sistema de formação de quadros que corresponde às necessidades.
 
