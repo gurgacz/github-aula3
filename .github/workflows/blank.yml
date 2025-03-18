@@ -1,6 +1,6 @@
 name: GitHub Pipeline de Exemplo
 run-name: Teste de GitHub Actions
-on: [push]
+on: [commit]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
