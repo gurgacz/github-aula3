@@ -1,0 +1,18 @@
+name: GitHub Pipeline de Exemplo
+run-name: Teste de GitHub Actions
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job iniciado automaticamente"
+      - run: echo "Job executando no ${{ runner.os }} server hospedado pelo GitHub!"
+      - run: echo "Branch ${{ github.ref }} e repositório ${{ github.repository }}."
+      - name: Copiando codigo para o ambiente do GitHub Actions
+        uses: actions/checkout@v4
+      - run: echo "O repositório ${{ github.repository }} foi clonado no servidor do Github."
+      - name: Listando arquivos copiados para o ambiente do GitHub Actions
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "Situação do Job ${{ job.status }}."
+      - run: echo "Pipeline Encerrado"
